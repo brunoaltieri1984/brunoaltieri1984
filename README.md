@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👩🏻‍💻 Bruno Altieri (perfil em construção)
+ **`18/01/26 vai estar completo`**
 
-<!--
-**brunoaltieri1984/brunoaltieri1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **`Analista Financeiro | Tecnologia | Power BI & Dashboardsk`**
 
-Here are some ideas to get you started:
+Sou Analista Financeiro com foco em tecnologia, automação de processos e visualização de dados. Tenho experiência na análise de indicadores financeiros, construção de dashboards interativos e apoio à tomada de decisão estratégica por meio de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo o GitHub para compartilhar projetos, estudos e soluções voltadas à área financeira e de Business Intelligence.
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
