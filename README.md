@@ -20,12 +20,29 @@ Utilizo o GitHub para compartilhar projetos, estudos e soluções voltadas à á
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
+<img 
+    align="left" 
+    alt="visualstudio" 
+    title="visualstudio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
+    />
+<img
+    align="left" 
+    alt="VSCODE" 
+    title="VSCODE"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+    />
+          
 
 <br/>
 <br/>
