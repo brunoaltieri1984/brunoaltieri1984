@@ -84,7 +84,7 @@ Outros: Integração de dados, modelagem e tratamento de bases
 🔹 Indicadores Gerenciais – KPIs financeiros para tomada de decisão
 
 
-**`💼 LinkedIn: www.linkedin.com/in/laltieribruno`**
+(**`💼 LinkedIn:https://www.linkedin.com/in/laltieribruno`**)
 
 **`📧 Email: brunoaltieri@hotmail.com`**
 
